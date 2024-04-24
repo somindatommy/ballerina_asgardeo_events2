@@ -1,0 +1,8 @@
+[package]
+org = "demosubscription"
+name = "ballerina_asgardeo_events2"
+version = "0.1.0"
+distribution = "2201.3.1"
+
+[build-options]
+observabilityIncluded = true
