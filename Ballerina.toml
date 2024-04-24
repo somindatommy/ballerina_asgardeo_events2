@@ -1,5 +1,5 @@
 [package]
-org = "demosubscription"
+org = "testeventing"
 name = "ballerina_asgardeo_events2"
 version = "0.1.0"
 distribution = "2201.8.6"
