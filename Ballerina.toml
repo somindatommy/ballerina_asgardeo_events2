@@ -1,8 +1,8 @@
 [package]
-org = "demosubscription"
-name = "ballerina_asgardeo_events2"
+org = "somindagamage"
+name = "user_reg"
 version = "0.1.0"
-distribution = "2201.8.0"
+distribution = "2201.8.6"
 
 [build-options]
 observabilityIncluded = true
